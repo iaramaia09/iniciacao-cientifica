@@ -1,0 +1,31 @@
+.body{
+    background-color: #DAD4B5;
+}
+
+.cabecalho1{
+    background-color: #A73121;
+    padding-left: 60vw;
+    padding-top: 1vh;
+    width: 100%;
+    height: 3vw;
+}
+
+.links1{
+    margin-left: 3vw;
+    color: #DAD4B5;
+    text-decoration: none;
+}
+.links2{
+    margin-left: 3vw;
+    text-decoration: none;
+    color: #DAD4B5;
+}
+
+.title1{
+    font-family: "Encode Sans SC", sans-serif;
+    font-size: 5vw;
+    margin-bottom: 1px;
+    margin-top: 5vw;
+    margin-left: 25%;
+}
+
